@@ -1,0 +1,63 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f5f5f5; 
+    margin: 0;
+    padding: 20px 0;
+}
+
+#main {
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 30px auto;
+    max-width: 900px;
+}
+
+#title {
+    font-size: 2.5em;
+    padding-top: 20px;
+    text-align: center;
+    color: #333;
+}
+
+#img-div {
+    background-color: #fff;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+/* Solução para os Erros 16, 17 e 19 */
+#image {
+    max-width: 100%; /* Resolve Erro 17 */
+    height: auto; /* Resolve Erro 18 */
+    display: block; /* Resolve Erro 16 */
+    margin: 0 auto; /* Resolve Erro 19: Centraliza a imagem de bloco */
+    border-radius: 2px;
+}
+
+#img-caption {
+    margin: 15px 0 30px 0;
+    font-style: italic;
+    font-size: 1.1em;
+    color: #555;
+    font-family: 'Pacifico', cursive; 
+    text-align: center;
+}
+
+#tribute-info {
+    text-align: left;
+    max-width: 600px;
+    margin: 50px auto 30px auto;
+    line-height: 1.6;
+}
+
+#tribute-info h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #444;
+}
+
+#tribute-info ul li {
+    margin-bottom: 15px;
+}
