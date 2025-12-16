@@ -13,17 +13,17 @@
 #### 1. Formulário de Pesquisa
 | Status | Link de Acesso |
 | :--- | :--- |
-| ✅ Concluído | [link aq] |
+| ✅ Concluído | [Projeto1](https://github.com/SuelleMaciel/HTML-CSS-Projects/tree/main/src/Projeto1) |
 
 #### 2. Página de Portfólio Pessoal
 | Status | Link de Acesso |
 | :--- | :--- |
-| ✅ Concluído | [link aq] |
+| ✅ Concluído | [Projeto2](https://github.com/SuelleMaciel/HTML-CSS-Projects/tree/main/src/Projeto2) |
 
-#### 3. A definir
+#### 3. Página de Tributo
 | Status | Link de Acesso |
 | :--- | :--- |
-| ⏳ A definir | [link aq] |
+| ✅ Concluído | [Projeto3](https://github.com/SuelleMaciel/HTML-CSS-Projects/tree/main/src/Projeto3) |
 
 ---
 ### Tecnologias Utilizadas: 
