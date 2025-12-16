@@ -1,0 +1,64 @@
+#welcome-section {
+  padding: 4px;
+  margin: 4px;
+  font-family: sans serif;
+  background-color: rgba(40, 24, 185, 0.622);
+  color: white;
+}
+
+@media (max-width: 600px) {
+  body {
+    background-color: white;
+  }
+  h1 {
+    text-align: center;
+  }
+}
+
+a:link {
+  color: white;
+}
+a:hover {
+  color: rgb(231, 105, 231);
+}
+
+body {
+  margin-top: 30px;
+}
+
+.project-tile {
+  font-family: sans serif;
+  background-color: rgba(40, 24, 185, 0.622);
+  color: white;
+}
+
+#profile-link {
+  color: white;
+}
+
+#navbar {
+  background-color: rgb(165, 170, 253);
+  width: 100%;
+  top: 0;
+  position: fixed;
+}
+
+#aboutme {
+  color: black;
+}
+
+.border {
+  border: 3px solid rgba(40, 24, 185, 0.622);
+  padding: 2px;
+  margin: 7px;
+}
+
+p, h1 {
+  font-family: 'Roboto', sans-serif;
+}
+
+.title {
+  font-family: 'Heather';
+  font-size: 25px;
+  color: rgb(165, 170, 253);
+}
